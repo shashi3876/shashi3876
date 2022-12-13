@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning auto encoders.
 - 💞️ I’m looking to collaborate on hobby machine learning projects.
 - 📫 How to reach me: https://www.linkedin.com/in/shashindrasilva/
+- 📫 ALso please visit my blog: https://medium.com/@shashindra3
 
 <!---
 shashi3876/shashi3876 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
